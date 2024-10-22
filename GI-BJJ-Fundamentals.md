@@ -1,31 +1,31 @@
-## 2024/9/21 - 1 hour
-**基本八式**
-1）前滚翻；2）后滚翻；3）侧滚翻；4）虾行；5）逆虾行；6）起桥虾行；7）S-Mount；8）蟹行
-
+## 2024/9/21 - 1 hour  
+**基本八式**  
+1）前滚翻；2）后滚翻；3）侧滚翻；4）虾行；5）逆虾行；6）起桥虾行；7）S-Mount；8）蟹行  
+  
 [基本八式video](https://www.bilibili.com/video/BV1Mk4y1p7h5/?vd_source=93891b72d03f240d275d6323d98b24ae
-)
+)  
 
-## 2024/9/22 - 1 hour
-**防守概论**
-closed guard ｜ half guard ｜ open guard
-**closed guard**
-破势：knee pull，利用下肢力量拉，破坏对方在上位的重心
-降服技入门：十字固 （下位）
-先控制一只手，和对侧肩膀，踩控制手侧的胯，用虾行实现旋转90度，和对方身体拉开成90度，上腿绕过头固定对方身体，抬胯实现发力，发力要持续缓慢施加。
+## 2024/9/22 - 1 hour  
+**防守概论**  
+closed guard ｜ half guard ｜ open guard  
+**closed guard**  
+破势：knee pull，利用下肢力量拉，破坏对方在上位的重心  
+降服技入门：十字固 （下位）  
+先控制一只手，和对侧肩膀，踩控制手侧的胯，用虾行实现旋转90度，和对方身体拉开成90度，上腿绕过头固定对方身体，抬胯实现发力，发力要持续缓慢施加。  
 
-[Armbar(十字固)video](https://www.bilibili.com/video/BV1cosTeLES3/?spm_id_from=333.999.0.0&vd_source=93891b72d03f240d275d6323d98b24ae)
-
-## 2024/10/13 - 1 hour
-**全防守（封闭式防守**
-三角绞：triangle choke
-重点概念：figure 4，即三角扣，一只腿扣住另一只腿的膝窝。 一推一拉，上腿形成triangle trap，把对方一只手和头固定在腿前面，其余在后面，注意两个肩膀都要被腿压在后面，不能放肩膀在前面和头手一起自由活动，用抓住的手同侧的手控制脖子，屁股蟹行像控制手侧推出，呈现侧身位，靠knee pull打破对方重心开腿，另一侧手从对方腿内侧去抄腿，注意同时身体保持侧身位并持续靠控制手侧的腿压制对方肩膀，最终腿形成三角扣锁住。
-
-[Triangle Choke video](https://www.bilibili.com/video/BV1qKHWekEiY/?spm_id_from=333.999.0.0&vd_source=93891b72d03f240d275d6323d98b24ae)
-
-## 2024/10/20 - 1 hour
-**实战**
-在无法降服对方的情况下，翻转对方，让对方背着地可拿分。实战中降服很难。
-**全防守（封闭式防守**
-肩胛固omoplata：手肘在外，抓对方同侧身体的袖把和领把，靠抓和腿压对方背实现控制，踩另一侧胯，头转向控制手的一侧，脚成功搭上对方的背，卡住脖子前侧端，腿闭环控制一个肩关节，另一条直腿直腿需要去勾对方远端腿，控制对方前滚翻，可以先解开三角扣，勾住之后再扣。
-
-[Omoplata video](https://www.bilibili.com/video/BV1Qi4JePEQQ/?spm_id_from=333.999.0.0&vd_source=93891b72d03f240d275d6323d98b24ae)
+[Armbar(十字固)video](https://www.bilibili.com/video/BV1cosTeLES3/?spm_id_from=333.999.0.0&vd_source=93891b72d03f240d275d6323d98b24ae)  
+  
+## 2024/10/13 - 1 hour  
+**全防守（封闭式防守**  
+三角绞：triangle choke  
+重点概念：figure 4，即三角扣，一只腿扣住另一只腿的膝窝。 一推一拉，上腿形成triangle trap，把对方一只手和头固定在腿前面，其余在后面，注意两个肩膀都要被腿压在后面，不能放肩膀在前面和头手一起自由活动，用抓住的手同侧的手控制脖子，屁股蟹行像控制手侧推出，呈现侧身位，靠knee pull打破对方重心开腿，另一侧手从对方腿内侧去抄腿，注意同时身体保持侧身位并持续靠控制手侧的腿压制对方肩膀，最终腿形成三角扣锁住。  
+  
+[Triangle Choke video](https://www.bilibili.com/video/BV1qKHWekEiY/?spm_id_from=333.999.0.0&vd_source=93891b72d03f240d275d6323d98b24ae)  
+  
+## 2024/10/20 - 1 hour  
+**实战**  
+在无法降服对方的情况下，翻转对方，让对方背着地可拿分。实战中降服很难。  
+**全防守（封闭式防守）**  
+肩胛固omoplata：手肘在外，抓对方同侧身体的袖把和领把，靠抓和腿压对方背实现控制，踩另一侧胯，头转向控制手的一侧，脚成功搭上对方的背，卡住脖子前侧端，腿闭环控制一个肩关节，另一条直腿直腿需要去勾对方远端腿，控制对方前滚翻，可以先解开三角扣，勾住之后再扣。  
+  
+[Omoplata video](https://www.bilibili.com/video/BV1Qi4JePEQQ/?spm_id_from=333.999.0.0&vd_source=93891b72d03f240d275d6323d98b24ae)  
